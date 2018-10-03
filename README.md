@@ -16,3 +16,10 @@ http://localhost:8080/ssm_demo/description/infoByRequest.action
 自己动手实现一个精美且实用的JavaWeb后台管理系统
 
 还有使用：mvn clean package可以将项目打包方便部署
+
+关于日志问题：
+```
+log4j.com.ssm.demo.dao=DEBUG
+```
+把com.ssm.demo.dao包下所有类的日志记录级别设置为DeBUG
+
