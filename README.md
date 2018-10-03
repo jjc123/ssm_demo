@@ -17,7 +17,7 @@ http://localhost:8080/ssm_demo/description/infoByRequest.action
 
 还有使用：mvn clean package可以将项目打包方便部署
 
-关于日志问题：
+# 关于日志问题：
 ```
 log4j.com.ssm.demo.dao=DEBUG
 ```
