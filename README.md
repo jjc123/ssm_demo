@@ -1,6 +1,6 @@
 # ssm_demo
 使用ssm实现前后台交互的简单栗子：访问网址，返回数据库的数据
-
+ 
 **访问首页：**
 ```
 http://localhost:8080/ssm_demo/
